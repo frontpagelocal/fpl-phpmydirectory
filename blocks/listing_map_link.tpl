@@ -1,0 +1,1 @@
+<a href="<?php echo $url; ?>" target="_blank"><?php echo $lang['public_listing_map']; ?></a>

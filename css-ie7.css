@@ -1,0 +1,12 @@
+fieldset {
+    margin-top: -10px;
+}
+
+legend {
+    margin-bottom: 10px;
+}
+
+/* IE 7 includes the width when aligning the background image, so we have to compensate for this */
+#messages div.error, #messages div.success, #messages div.notice {
+    background-position: 15px center;
+}
