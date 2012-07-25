@@ -40,5 +40,5 @@
             <?php } ?>
         </span>
     </div>
-    <a href="<?php echo BASE_URL; ?>" title="<?php echo $this->escape($title); ?>"><img id="logo" src="<?php echo $this->urlCDN('images/logo.gif'); ?>" border="0" alt="<?php echo $this->escape($title); ?>" /></a>
+    <a href="<?php echo BASE_URL; ?>" title="<?php echo $this->escape($title); ?>"><img id="logo" src="<?php echo $this->urlCDN('images/logo.png'); ?>" border="0" alt="<?php echo $this->escape($title); ?>" /></a>
 </div>
